@@ -6547,3 +6547,4 @@ https://github.com/06Gagan
 - [Priyanshu Solon](https://github.com/priyanshu-solon) **Let's Go!**
 - [Tornike Skhulukhia](https://github.com/Tornike-Skhulukhia) ** Not the first FOSS commit, but this is still cool **
 - [Kris Furer](https://github.com/kris-furer) **My first open source contribution**
+- [Neto Codes](https://github.com/Netocodes)  ** gitroll really insulted me today, give me three months**
